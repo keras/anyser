@@ -1,6 +1,6 @@
 # Anyser
 
-Wrapper for serializing custom data types with a chosen serializer
+Wrapper for serializing custom data types with a chosen backend
 
 
 ```python
